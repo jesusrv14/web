@@ -1,0 +1,48 @@
+.centered-container {
+  display: flex;
+  flex-direction: column; 
+  justify-content: flex-start; 
+  align-items: center;
+  min-height: 100vh; 
+  padding-top: 50px; 
+}
+
+.container.profile-container {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px; 
+  background-color: #f0f2f5; 
+  border-radius: 10px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.container.profile-container label {
+  display: block; 
+  margin-bottom: 10px; 
+}
+
+.container.profile-container input[type="email"],
+.container.profile-container input[type="text"],
+.container.profile-container input[type="tel"],
+.container.profile-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box; 
+}
+
+.container.profile-container button {
+  background-color: #3b7bc2;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-container button.btn-eliminar {
+  background-color: #ff0000; /* Rojo */
+  color: #fff;
+}
+

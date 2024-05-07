@@ -1,0 +1,47 @@
+.respuesta-form {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.respuesta-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button#btn-actualizar-respuesta {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+button#btn-actualizar-respuesta:hover {
+    background-color: #45a049;
+}
+.post {
+    background-color: #2a85e8; 
+    color: #fff; 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin-bottom: 20px;
+  }
+  .btn-volver {
+    background-color: #3b7bc2; 
+    color: #fff;
+    padding: 8px 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin-top: 10px; 
+}

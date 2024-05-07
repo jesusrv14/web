@@ -1,0 +1,59 @@
+.respuesta-item {
+    background-color: #2a85e8; 
+    color: #fff; 
+    padding: 10px; 
+    border-radius: 10px; 
+    margin-bottom: 10px; 
+}
+
+.btn-ver-respuestas {
+    background-color: #3b7bc2; 
+    color: #fff; 
+    padding: 8px 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin-top: 10px;
+}
+
+.responder-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.responder-form button {
+    background-color: #3b7bc2; 
+    color: #fff; 
+    padding: 8px 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin-top: 20px;
+}
+
+.respuesta {
+    background-color: #2a85e8; 
+    color: #fff; 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+}
+.btn-volver {
+    background-color: #3b7bc2; 
+    color: #fff;
+    padding: 8px 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    text-decoration: none; 
+    display: inline-block; 
+    margin-top: 10px; 
+}
