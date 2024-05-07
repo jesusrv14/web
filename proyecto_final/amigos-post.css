@@ -1,0 +1,42 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.post-amigo {
+    background-color: #3b7bc2;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-ver-respuestas-amigo {
+    background-color: #3b7bc2;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.post-amigo:last-child {
+    margin-bottom: 100px;
+}
+
+.btn-volver {
+    background-color: #3b7bc2; 
+    color: #fff; 
+    padding: 8px ; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+    text-decoration: none;
+    display: inline-block; 
+ 
+}

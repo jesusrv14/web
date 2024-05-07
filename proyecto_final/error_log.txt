@@ -1,0 +1,6 @@
+Error al actualizar la publicación: Error parsing ObjectId string: <br />
+<b>Warning</b>:  Undefined variable $postId in <b>C:\xampp\htdocs\proyecto_final\actualizar_post.php</b> on line <b>64</b><br />
+
+Error al actualizar la publicación: Error parsing ObjectId string: 
+Error al actualizar la publicación: Error al actualizar la publicación: No se encontró la publicación para actualizar
+Error al actualizar la publicación: Error al actualizar la publicación: No se encontró la publicación para actualizar
